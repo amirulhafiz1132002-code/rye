@@ -1,4 +1,4 @@
-# Python Project (`pyproject.toml`)
+o# Python Project (`pyproject.toml`)
 
 Rye tries to avoid a lot of proprietary configuration in the `pyproject.toml` file but a bit
 is necessary.  Here are the most important keys that Rye expects:
